@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ![Kindyroo's github stats](https://github-readme-stats.vercel.app/api?username=Run2948&show_icons=true)
+
+![Kindyroo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Run2948)
